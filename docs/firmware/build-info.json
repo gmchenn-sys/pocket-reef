@@ -1,0 +1,14 @@
+{
+  "version": "30.0.0",
+  "marker": "REEF_LINK_STABLE_V30",
+  "board": "ESP32-S3 N16R8",
+  "screen": "ST7789 SPI 240x240",
+  "fqbn": "esp32:esp32:esp32s3:FlashSize=16M,PSRAM=opi,CDCOnBoot=default",
+  "arduino_esp32": "3.3.10",
+  "adafruit_st7789": "1.11.0",
+  "adafruit_gfx": "1.12.6",
+  "adafruit_busio": "1.17.4",
+  "flash_mode": "dio",
+  "flash_frequency": "80m",
+  "flash_size": "16MB"
+}
